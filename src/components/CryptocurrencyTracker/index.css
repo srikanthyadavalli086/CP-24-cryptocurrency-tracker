@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: black;
+}
+.bg-container-loader {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
